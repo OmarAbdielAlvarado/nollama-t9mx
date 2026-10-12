@@ -1,0 +1,12 @@
+{
+  "proyecto": "NollamaT9MX-fase1",
+  "corpus": "Casa_de_Zi/*.md (200k chars)",
+  "archivos": 15,
+  "tokens_antes": 35827,
+  "tokens_despues": 35843,
+  "ahorro_tokens_pct": -0.0,
+  "chars_antes": 107553,
+  "chars_despues": 106089,
+  "ahorro_chars_pct": 1.4,
+  "tokenizer": "cl100k_base (hecho para ingles) — F2 traera BPE propio"
+}
