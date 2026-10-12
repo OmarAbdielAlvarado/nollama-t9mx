@@ -50,3 +50,13 @@ LECCION: BPE neutraliza abreviaciones ciegas (ya tiene las palabras
 comunes como 1 token). PIVOTE por datos: taquigrafia = GLIFOS para las
 palabras multi-token del dominio (techo 46.5%) + tokenizer propio vs
 el impuesto ingles. Aceptado, corregido, adelante (regla Omar).
+
+## FASE 3 — EL DATO FUNDACIONAL (12-oct, medido en terminal)
+IMPUESTO INGLES: espanol de Omar con cl100k = 35,827 tokens;
+BPE propio (8192, corpus Casa) = 23,020 tokens -> AHORRO 35.7%.
+Menos tokens = menos hardware/energia/costo. Tesis NollamaT9MX
+COMPROBADA a escala corpus (300k chars) — pendiente validar a escala
+grande (corpus mayor, vocab variado, vs tokenizers ES existentes).
+NULL RESULT B: 100 glifos AddedToken sobre BPE propio = -5.4% (peor):
+el BPE propio YA ES la taquigrafia digital (Gregg era para la mano,
+BPE es para la maquina). 3 hipotesis muertas documentadas, 1 viva.
