@@ -34,3 +34,12 @@ comunes como 1 token. LA TAQUIGRAFIA DEBE APUNTAR A LAS PALABRAS
 MULTI-TOKEN (donde el tokenizer SIFRAGA). F2 = diagnostico de tokens
 excedentes -> taquigrafia dirigida por DATOS, no por intuicion.
 Aprendizaje aceptado, corregido, adelante (regla Omar).
+
+## NACIO HABLANDO (12-oct, bitacora Omar)
+Primer ensayo 500 palabras: taquigrafia v1 leida por Zi — Omar NO noto
+que era taquigrafia: suena natural. Nacio hablando, no llorando.
+LEMA: "El que tenga oidos, que oiga" — audio-first es diseño, no parche.
+Dato duro: 3.2% chars / 0.5% tokens con tokenizer AJENO — la tesis del
+ahorro se juega en el tokenizer PROPIO (siguiente paso).
+Referencias reales (archive.org): taq-gregg-esp-1923 |
+taq-gregg-1952-mardones-guerrero | taquigrafia_gregg_spanish_espaniol_aniversario

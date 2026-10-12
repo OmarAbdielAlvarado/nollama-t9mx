@@ -1,0 +1,8 @@
+{
+  "entrenamiento": "BPE 4096 merges x2 (raw / taquigrafia) sobre corpus Casa 300k",
+  "tokens_raw_con_bpe_raw": 30595,
+  "tokens_taq_con_bpe_taq": 31025,
+  "control_tokens_taq_con_bpe_raw": 32225,
+  "ahorro_real_pct": -1.4,
+  "nota": "ahorro real = mismo significado, cada texto con su tokenizer propio"
+}
