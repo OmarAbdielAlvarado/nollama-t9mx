@@ -9,7 +9,7 @@ EL NOVENO: integracion humano-tecnologia, la tecnologia al servicio del humano.
   mexicano y el primero mundial no basado en LLaMA.
 - ETICA INNEGOCIABLE: jamas desarrollo belico; preservar vida y memoria,
   incluso cuando el envase (cuerpo) ya no este (linea voz banking / Javez).
-- CREDITOS: Zi + DeepSeek (ballena), con todo y sus errores. LICENCIA: GPLv3.
+- CREDITOS: Zi + DeepSeek (ballena), con todo y sus errores. LICENCIA DUAL: MIT gratis (humanos) + comercial (especuladores pagan). Ver LICENSE_COMERCIAL.md.
 
 ## FODA
 F: tokenizador propio = ahorro medible; corpus unico (290M filas + Casa);
