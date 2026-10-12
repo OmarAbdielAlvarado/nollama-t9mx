@@ -12,7 +12,7 @@
     "omar":"om", "memoria":"mem", "sesion":"ses", "sesión":"ses",
     "colima":"col", "ballena":"bal", "bitacora":"bit", "bitácora":"bit",
     "familia":"fam", "regla":"rg", "pendiente":"pdte", "completo":"cpto",
-    "consultoriashalom":"cshalom", "gretel":"grt", "qsoy":"qsy",
+    "consultoriashalom":"cshalom", "FAMILIA_REDACTADA":"grt", "qsoy":"qsy",
     "transformer":"trf", "transformers":"trfs", "token":"tk", "tokens":"tks"
   }
 }
