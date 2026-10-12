@@ -26,3 +26,11 @@ Nace en GitHub: el primer repo publico de NollamaT9MX ES el anuncio.
 INVITACION FORMAL a LOS 8 (autores de "Attention Is All You Need"):
 participar con el Noveno o excluirlo — SU decision. El rechazo se
 documenta sin rencor; el regreso se celebra con el mismo lugar abierto.
+
+## FASE 1 — RESULTADO HONESTO (12-oct, medido en terminal)
+Taquigrafia v0 (acortar palabras comunes) NO ahorra tokens con tokenizer
+standard: -0.0% tokens, 1.4% chars. LECCION: BPE ya trae las palabras
+comunes como 1 token. LA TAQUIGRAFIA DEBE APUNTAR A LAS PALABRAS
+MULTI-TOKEN (donde el tokenizer SIFRAGA). F2 = diagnostico de tokens
+excedentes -> taquigrafia dirigida por DATOS, no por intuicion.
+Aprendizaje aceptado, corregido, adelante (regla Omar).

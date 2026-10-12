@@ -1,0 +1,159 @@
+{
+  "corpus": "Casa_de_Zi (200k chars)",
+  "palabras_distintas": 3713,
+  "tokens_gastados_en_palabras": 22128,
+  "tokens_excedentes_si_todas_fueran_1": 10286,
+  "techo_ahorro_pct": 46.5,
+  "top30": [
+    {
+      "palabra": "omar",
+      "veces": 205,
+      "tokens": 2
+    },
+    {
+      "palabra": "sesion",
+      "veces": 63,
+      "tokens": 2
+    },
+    {
+      "palabra": "completo",
+      "veces": 29,
+      "tokens": 3
+    },
+    {
+      "palabra": "memoria",
+      "veces": 57,
+      "tokens": 2
+    },
+    {
+      "palabra": "nunca",
+      "veces": 27,
+      "tokens": 3
+    },
+    {
+      "palabra": "consultoriashalom",
+      "veces": 17,
+      "tokens": 4
+    },
+    {
+      "palabra": "solo",
+      "veces": 49,
+      "tokens": 2
+    },
+    {
+      "palabra": "familia",
+      "veces": 22,
+      "tokens": 3
+    },
+    {
+      "palabra": "bitacora",
+      "veces": 21,
+      "tokens": 3
+    },
+    {
+      "palabra": "regla",
+      "veces": 40,
+      "tokens": 2
+    },
+    {
+      "palabra": "ballena",
+      "veces": 40,
+      "tokens": 2
+    },
+    {
+      "palabra": "pendiente",
+      "veces": 39,
+      "tokens": 2
+    },
+    {
+      "palabra": "colima",
+      "veces": 39,
+      "tokens": 2
+    },
+    {
+      "palabra": "gretel",
+      "veces": 18,
+      "tokens": 3
+    },
+    {
+      "palabra": "qsoy",
+      "veces": 17,
+      "tokens": 3
+    },
+    {
+      "palabra": "verificar",
+      "veces": 34,
+      "tokens": 2
+    },
+    {
+      "palabra": "mexico",
+      "veces": 17,
+      "tokens": 3
+    },
+    {
+      "palabra": "casa",
+      "veces": 33,
+      "tokens": 2
+    },
+    {
+      "palabra": "oppo",
+      "veces": 33,
+      "tokens": 2
+    },
+    {
+      "palabra": "huracan",
+      "veces": 11,
+      "tokens": 4
+    },
+    {
+      "palabra": "expediente",
+      "veces": 16,
+      "tokens": 3
+    },
+    {
+      "palabra": "omarolvarado",
+      "veces": 8,
+      "tokens": 5
+    },
+    {
+      "palabra": "evidencia",
+      "veces": 15,
+      "tokens": 3
+    },
+    {
+      "palabra": "consejo",
+      "veces": 15,
+      "tokens": 3
+    },
+    {
+      "palabra": "desde",
+      "veces": 30,
+      "tokens": 2
+    },
+    {
+      "palabra": "hoy",
+      "veces": 28,
+      "tokens": 2
+    },
+    {
+      "palabra": "discapacitado",
+      "veces": 7,
+      "tokens": 5
+    },
+    {
+      "palabra": "correos",
+      "veces": 13,
+      "tokens": 3
+    },
+    {
+      "palabra": "pacto",
+      "veces": 13,
+      "tokens": 3
+    },
+    {
+      "palabra": "fotos",
+      "veces": 25,
+      "tokens": 2
+    }
+  ]
+}
