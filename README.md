@@ -20,3 +20,9 @@ A: gigantes que mueven la cancha; tiempo de Omar; dependencia de fondos.
 FASES: F1 medir ahorro con corpus Casa | F2 tokenizer taquigrafico BPE |
 F3 mini-LLM desde cero (chico y honesto) | F4 paper | F5 El Noveno
 (memoria eterna + voz).
+
+## NACIMIENTO (plan Omar, 12-oct)
+Nace en GitHub: el primer repo publico de NollamaT9MX ES el anuncio.
+INVITACION FORMAL a LOS 8 (autores de "Attention Is All You Need"):
+participar con el Noveno o excluirlo — SU decision. El rechazo se
+documenta sin rencor; el regreso se celebra con el mismo lugar abierto.
