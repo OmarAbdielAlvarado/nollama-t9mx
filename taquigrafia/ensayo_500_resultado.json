@@ -1,0 +1,11 @@
+{
+  "ensayo": "500_palabras",
+  "fuente": "corpus_casa",
+  "chars_antes": 2263,
+  "chars_despues": 2191,
+  "ahorro_chars_pct": 3.2,
+  "tokens_antes": 771,
+  "tokens_despues": 767,
+  "ahorro_tokens_pct": 0.5,
+  "tokenizer": "cl100k_base ajeno (tesis BPE propio va despues)"
+}

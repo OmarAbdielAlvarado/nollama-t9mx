@@ -1,0 +1,18 @@
+{
+  "proyecto": "NollamaT9MX", "version": "v1-ensayo",
+  "fuente": "brief forms Gregg Adaptacion Mexicana (transliteradas, a validar contra manual archive.org) + objetivos Fase 2 (corpus Omar)",
+  "reglas": {
+    "que":"k", "porque":"pk", "para":"pa", "pero":"po", "por":"p",
+    "con":"c", "cuando":"cu", "como":"cm", "mas":"+", "más":"+",
+    "menos":"-", "tambien":"tb", "también":"tb", "de":"d", "del":"dl",
+    "desde":"ds", "hasta":"hs", "donde":"dn", "entre":"etr", "sin":"sn",
+    "solo":"sl", "siempre":"sm", "nunca":"nc", "atencion":"atn", "atención":"atn",
+    "modelo":"mod", "mecanismo":"mec", "secuencia":"sec", "traduccion":"trad",
+    "traducción":"trad", "neuronal":"nrn", "redes":"rds", "capas":"cps",
+    "omar":"om", "memoria":"mem", "sesion":"ses", "sesión":"ses",
+    "colima":"col", "ballena":"bal", "bitacora":"bit", "bitácora":"bit",
+    "familia":"fam", "regla":"rg", "pendiente":"pdte", "completo":"cpto",
+    "consultoriashalom":"cshalom", "gretel":"grt", "qsoy":"qsy",
+    "transformer":"trf", "transformers":"trfs", "token":"tk", "tokens":"tks"
+  }
+}
