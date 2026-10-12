@@ -1,0 +1,28 @@
+{
+  "corpus": "Casa_de_Zi 300k chars",
+  "A_impuesto_ingles": {
+    "tokens_cl100k": 35827,
+    "tokens_bpe_propio": 23020,
+    "ahorro_pct": 35.7,
+    "nota": "lo que paga el espanol por un tokenizer hecho para ingles"
+  },
+  "B_taquigrafia_de_datos": {
+    "glifos": 100,
+    "tokens_propio": 23020,
+    "tokens_con_glifos": 24270,
+    "ahorro_adicional_pct": -5.4,
+    "primeros10": [
+      "omar",
+      "sesion",
+      "completo",
+      "memoria",
+      "nunca",
+      "consultoriashalom",
+      "solo",
+      "familia",
+      "bitacora",
+      "regla"
+    ]
+  },
+  "lectura": "glifos = taquigrafia Gregg digital: 1 trazo por palabra cara"
+}

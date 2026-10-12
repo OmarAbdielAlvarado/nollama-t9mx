@@ -43,3 +43,10 @@ Dato duro: 3.2% chars / 0.5% tokens con tokenizer AJENO — la tesis del
 ahorro se juega en el tokenizer PROPIO (siguiente paso).
 Referencias reales (archive.org): taq-gregg-esp-1923 |
 taq-gregg-1952-mardones-guerrero | taquigrafia_gregg_spanish_espaniol_aniversario
+
+## FASE 2 — NULL RESULT (12-oct, medido)
+BPE propio 4096: raw 30595 tokens vs taquigrafia v1 31025 (-1.4%).
+LECCION: BPE neutraliza abreviaciones ciegas (ya tiene las palabras
+comunes como 1 token). PIVOTE por datos: taquigrafia = GLIFOS para las
+palabras multi-token del dominio (techo 46.5%) + tokenizer propio vs
+el impuesto ingles. Aceptado, corregido, adelante (regla Omar).
