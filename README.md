@@ -1,3 +1,5 @@
+
+<!-- CANARIO PFWX3446 | nacido 2026-10-13 | repo OmarAbdielAlvarado/nollama-t9mx -->
 # NollamaT9MX (idea de Omar, 12-oct-2026)
 Nueva generacion de LLM: NO centrado en la llama (LLaMA) — centrado en
 EL NOVENO: integracion humano-tecnologia, la tecnologia al servicio del humano.
