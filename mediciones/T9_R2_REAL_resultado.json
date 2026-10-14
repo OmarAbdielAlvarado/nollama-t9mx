@@ -1,0 +1,13 @@
+{
+  "proyecto": "nollama_t9mx-ronda2-PADRON-REAL",
+  "fuente": "votantes_norm 88M LOCAL — indice LOCAL ONLY, a bitacora solo metricas",
+  "entradas": 41914,
+  "secuencias_t9": 21590,
+  "prom_candidatos": 1.94,
+  "max_candidatos": 14,
+  "sin_colision": 5506,
+  "pct_sin_colision": 25.5,
+  "top1_top1000": "662/678 (97.6%)",
+  "latencia_ns": 46.3,
+  "tam_idx_kb": 712.3
+}
